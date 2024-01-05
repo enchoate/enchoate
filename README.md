@@ -1,7 +1,7 @@
 Hi 👋 My name is Randall Adams
 ==============================
 
-Data Engineer
+Data Engineer with ML
 -------------
 
 I have been a software and data pro for over 20 years now. I started as a "database analyst" doing PL/SQL and SQL on Oracle 7 back in 2002. I enjoy rapidly building production-grade secure enterprise solutions (see my cookie-jar repository). Today I help organizations monetize data through best practices in data engineering, data science/analytics, and software engineering.
