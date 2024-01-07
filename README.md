@@ -9,7 +9,7 @@ I have been a software and data pro for over 20 years now. I started as a "datab
 *   🌍  I'm based in Virginia
 *   ✉️  You can contact me at [ml.at.scale.randy@gmail.com](mailto:ml.at.scale.randy@gmail.com)
 *   🧠  I'm learning Go Lang
-*   🤝  I'm open to collaborating on what's next :)
+*   🤝  I'm open to collaborating on standardizing projects for rapid development (cookiecutter templates)
 *   ⚡  I used to do defense contracting work for years; it's awesome to be back on the "outside" again
 
 ### Skills 
