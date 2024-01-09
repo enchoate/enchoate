@@ -4,12 +4,14 @@ Hi 👋 My name is Randall Adams
 Data Engineer with ML
 -------------
 
-I have been a software and data pro for over 20 years now. I started as a "database analyst" doing PL/SQL and SQL on Oracle 7 back in 2002. I enjoy rapidly building production-grade secure enterprise solutions (see my cookie-jar repository). Today I help organizations monetize data through best practices in data engineering, data science/analytics, and software engineering.
+I am best known for problem-solving and mentoring younger engineers.  My go-to technology stack is Python, Linux, and [LunarVim](https://www.lunarvim.org/) backed by heavy automation, aggressive typing/linting and extensive testing.
+
+I have worked for Oracle, Lockheed Martin, SUN Microsystems and other large companies. If you have interesting technology challenges/problems I would love to share that challenge.  I enjoy rapidly building production-grade secure enterprise solutions (see my cookie-jar repository). Today I help organizations monetize data through best practices in data engineering, data science/analytics, and software engineering.
 
 *   🌍  I'm based in Virginia
 *   ✉️  You can contact me at [ml.at.scale.randy@gmail.com](mailto:ml.at.scale.randy@gmail.com)
-*   🧠  I'm learning Go Lang
-*   🤝  I'm open to collaborating on standardizing projects for rapid development (cookiecutter templates)
+*   🧠  I'm researching and developing methods to deliver high quality software faster
+*   🤝  I'm open to collaborating on standardizing projects for rapid development (mostly in Python)
 *   ⚡  I used to do defense contracting work for years; it's awesome to be back on the "outside" again
 
 ### Skills 
