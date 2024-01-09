@@ -4,7 +4,7 @@ Hi 👋 My name is Randall Adams
 Data Engineer with ML
 -------------
 
-I am best known for my problem-solving ability, business acumen and mentoring younger engineers.  My go-to technology stack is Python, Linux, and [LunarVim](https://www.lunarvim.org/) backed by heavy automation, aggressive typing/linting and extensive testing.
+I am best known for my problem-solving ability, business acumen and mentoring younger engineers.  My go-to development technology stack is Python, Linux, and [LunarVim](https://www.lunarvim.org/) backed by heavy automation, aggressive typing/linting and extensive testing.
 
 I have worked for Oracle, Lockheed Martin, SUN Microsystems and other large companies. If you have interesting technology challenges/problems I would love to share that challenge.  I enjoy rapidly building production-grade secure enterprise solutions (see my cookie-jar repository). Today I help organizations monetize data through best practices in data engineering, data science/analytics, and software engineering.
 
