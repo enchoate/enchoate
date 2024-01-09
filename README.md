@@ -12,7 +12,7 @@ I have worked for Oracle, Lockheed Martin, SUN Microsystems and other large comp
 *   ✉️  You can contact me at [ml.at.scale.randy@gmail.com](mailto:ml.at.scale.randy@gmail.com)
 *   🧠  I'm researching and developing methods to deliver high quality software faster
 *   🤝  I'm open to collaborating on standardizing projects for rapid development (mostly in Python)
-*   ⚡  I used to do defense contracting work for years; it's awesome to be back on the "outside" again
+*   ⚡  I bring a "big company perspective" with a "small startup" mindset
 
 ### Skills 
 <p align="left">
