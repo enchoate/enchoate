@@ -9,6 +9,7 @@ I am best known for my problem-solving ability, business acumen while mentoring 
 I have worked for Oracle, Lockheed Martin, SUN Microsystems and other large companies. If you have interesting technology challenges/problems I would love to share that challenge.  I enjoy rapidly building production-grade secure enterprise solutions (see my cookie-jar repository). Today I help organizations monetize data through best practices in data engineering, data science/analytics, and software engineering.
 
 *   🌍  I'm based in Virginia
+*   💜 I have extensive hands-on architect experience
 *   ✉️  You can contact me at [ml.at.scale.randy@gmail.com](mailto:ml.at.scale.randy@gmail.com)
 *   🧠  I'm researching and developing methods to deliver high quality software faster
 *   🤝  I'm open to collaborating on standardizing projects for rapid development (mostly in Python)
