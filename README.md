@@ -1,7 +1,7 @@
 Hi 👋 My name is Randall Adams
 ==============================
 
-Data Engineer with ML
+Data Scientist/Engineer with ML
 -------------
 
 I am best known for my problem-solving ability and business acumen while mentoring younger engineers.  My go-to development technology stack is Python, Linux, and [LunarVim](https://www.lunarvim.org/) backed by heavy automation, aggressive typing/linting and extensive testing support.  I favor Scala for ETL, Analtyics and ML workloads at scale.
