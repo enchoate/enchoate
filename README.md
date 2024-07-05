@@ -6,6 +6,8 @@ Data Scientist/Engineer with ML
 
 I am best known for my problem-solving ability and business acumen while mentoring younger engineers.  My go-to development technology stack is Python, Linux, and [LunarVim](https://www.lunarvim.org/) backed by heavy automation, aggressive typing/linting and extensive testing support.  I favor Scala for ETL, Analtyics and ML workloads at scale.
 
+My current research interest is integrating Tensorflow 2 into my Python/Pandas/Pyspark workflow.  My focus is on building neural networks for use in imagery applications.
+
 I have worked for Oracle, Lockheed Martin, SUN Microsystems and other large companies. If you have interesting technology challenges/problems I would love to share that challenge.  I enjoy rapidly building production-grade secure enterprise solutions (see my cookie-jar repository). Today I help organizations monetize data through best practices in data engineering, data science/analytics, and software engineering.
 
 *   👷 I am currently working on upgrading the data science cookiecutter
